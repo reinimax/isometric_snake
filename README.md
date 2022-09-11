@@ -8,3 +8,5 @@ This project was inspired by these awesome videos:
 
 The used assets are from this asset pack:
 - [Isometric Dungeon Tileset 2D](https://www.gamedevmarket.net/asset/isometric-dungeon-tileset-2d/)
+
+View the live demo [here](https://reinimax.github.io/isometric_snake/).
